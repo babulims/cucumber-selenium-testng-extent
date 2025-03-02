@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cucumber Suite" parallel="methods" thread-count="4">
+    <test name="Cucumber Test">
+        <parameter name="tags" value="@VideoFeeds" />
+        <classes>
+            <class name="com.bms.testrunner.CoreProductTestRunner" />
+        </classes>
+    </test>
+</suite>
