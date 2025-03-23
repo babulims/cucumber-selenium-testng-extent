@@ -8,7 +8,7 @@ The **cucumber-selenium-testng-extent** project is a multi-module Maven-based te
 
 The framework follows a **multi-module Maven architecture** with the following key modules:
 
-### 1. Root Maven Project (`bms-veeva-tech-assessment`)
+### 1. Root Maven Project (`cucumber-selenium-testng-extent`)
 
 The root project serves as the parent module, driving all common Maven dependencies and plugins. The `pom.xml` in this module manages:
 
