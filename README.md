@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **bms-veeva-tech-assessment** project is a multi-module Maven-based test automation framework designed to facilitate automated testing for various web pages using **Java**, **Selenium**, **Cucumber**, **TestNG** and **Maven** The framework supports UI testing with extensive reusability and scalability across different product lines.
+The **cucumber-selenium-testng-extent** project is a multi-module Maven-based test automation framework designed to facilitate automated testing for various web pages using **Java**, **Selenium**, **Cucumber**, **TestNG** and **Maven** The framework supports UI testing with extensive reusability and scalability across different product lines.
 
 ## Project Structure
 
@@ -132,5 +132,5 @@ Test data is stored in **application.properties** and dynamically read at runtim
 
 ## Conclusion
 
-The **bms-veeva-tech-assessment** framework provides a scalable, reusable, and maintainable solution for automated testing across multiple product lines. Its modular architecture, combined with Cucumber and TestNG, ensures clean separation of concerns, better code organization, and seamless test execution.
+The **cucumber-selenium-testng-extent** framework provides a scalable, reusable, and maintainable solution for automated testing across multiple product lines. Its modular architecture, combined with Cucumber and TestNG, ensures clean separation of concerns, better code organization, and seamless test execution.
 
